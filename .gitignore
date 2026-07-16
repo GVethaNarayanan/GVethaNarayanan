@@ -1,0 +1,29 @@
+# Backup and temporary files
+*_backup.*
+*.bak
+
+# OCR and working text files
+gvn_resume_ocr.txt
+gvn_resume_ocr_lines.txt
+gvn_resume_text.txt
+new_intern_text.txt
+template_text.txt
+
+# Template files
+Resume_Template_-1.pdf
+
+# Working HTML
+resume.html
+
+# Image working files
+gvn_resume.png
+
+# Other resume versions
+GVN RESUME.pdf
+GVN_AGTG_Sol_Intern.pdf
+VETHA_NARAYANAN_G_Resume_backup.pdf
+
+# Python
+__pycache__/
+*.py
+*.pyc
