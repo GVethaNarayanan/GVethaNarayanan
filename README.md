@@ -152,19 +152,22 @@
 <div align="center">
 
 <a href="https://github.com/GVethaNarayanan">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GVethaNarayanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GVethaNarayanan&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/GVethaNarayanan">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GVethaNarayanan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GVethaNarayanan&theme=tokyonight" alt="Top Languages by Repo" />
 </a>
 
-<br/>
+<a href="https://github.com/GVethaNarayanan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GVethaNarayanan&theme=tokyonight" alt="Top Languages by Commit" />
+</a>
+<a href="https://github.com/GVethaNarayanan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GVethaNarayanan&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</a>
 
 <a href="https://github.com/GVethaNarayanan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GVethaNarayanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
-
-<br/>
 
 <a href="https://github.com/GVethaNarayanan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GVethaNarayanan&theme=tokyonight" alt="GitHub Activity Graph" />
