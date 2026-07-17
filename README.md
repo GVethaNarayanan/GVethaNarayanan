@@ -1,369 +1,280 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B5CF6,100:06B6D4&height=260&section=header&text=Vetha%20Narayanan%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%2FML%20Developer%20•%20Full-Stack%20Builder%20•%20Data%20Scientist&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=&fontSize=0"/>
+
+# 👋 Hey, I'm Vetha Narayanan G
+
+**`Digital Craftsman (AI Engineer / Full-Stack Developer / Technical Writer)`**
 
 <br/>
 
+I'm a second-year B.Tech IT student from Chennai who loves turning complex AI research into practical, working software. From predicting sepsis in ICUs to detecting misinformation with GenAI — I build things that matter. Currently on a mission to solve **500+ LeetCode problems** ✅ and ship real-world AI products.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vetha-narayanan-782724309/">
+  <img src="https://img.shields.io/badge/-Vetha%20Narayanan-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vethanarayanang007@gmail.com">
+  <img src="https://img.shields.io/badge/-vethanarayanang007-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/_vetha_.07/">
+  <img src="https://img.shields.io/badge/-@__vetha__.07-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+</a>
 <a href="https://github.com/GVethaNarayanan">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+systems+that+solve+real-world+problems;Deep+Learning+%7C+GenAI+%7C+RAG+%7C+IoT;500%2B+LeetCode+Problems+Solved;2x+Professional+Internships+Completed;Always+building.+Always+learning.&font=Fira+Code&center=true&width=650&height=45&color=8B5CF6&vCenter=true&size=22&pause=1500&background=00000000"/>
+  <img src="https://img.shields.io/badge/-GVethaNarayanan-181717?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GVethaNarayanan&label=Profile%20Views&color=45B7D1&style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🧰 Languages & Tools I Use
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<br/><br/>
+
+---
+
+### 📊 My Numbers
+
+<div align="center">
+
+```text
+🧩 LeetCode         500+ problems solved
+🎯 SkillRack        160+ problems solved
+💼 Internships       2 completed (AI + Web Dev)
+🚀 AI Projects       5+ deployed
+🎓 CGPA              7.96 / 10
+📍 Location          Chennai, India
+🎒 Education         B.Tech IT @ CIT (2024-2028)
+```
+
+</div>
+
+---
+
+### 💼 Where I've Worked
+
+> **🤖 AI Intern — LGTG Solutions Pvt. Ltd.** *(May 2026 – Jun 2026)*
+> 
+> Built an offline real-time voice translation system integrating OpenAI Whisper (ASR), Meta NLLB-200 (NMT), and Piper TTS — all running locally on consumer hardware via a Flask web app.
+
+> **🌐 Web Dev Intern — Zizzle Technologies India Pvt Ltd** *(May 2025 – Jun 2025)*
+> 
+> Developed front-end features and backend APIs for a Quick E-Commerce platform. Resolved critical bugs and shipped stable deployments through Agile workflows.
+
+---
+
+### 🔬 AI Projects I've Built
+
+<details>
+<summary><b>🧬 SepsiSense AI — Early Sepsis Prediction</b> 🟢 Active</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | Bi-LSTM deep learning model that predicts sepsis risk from ICU time-series vital signs |
+| **Impact** | Detects septic shock **6–12 hours earlier** than traditional SIRS/SOFA scoring |
+| **Special** | SHAP explainability to highlight critical clinical indicators |
+| **Stack** | `Python` `TensorFlow/Keras` `SHAP` `Scikit-Learn` `MIMIC ICU Data` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan/SepsiSense_AI)
+
+</details>
+
+<details>
+<summary><b>🛡️ TruthShield AI — Misinformation & Scam Detection</b> 🟢 Active</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | GenAI system using RAG + LLM reasoning to detect scams, deepfakes, and misinformation |
+| **Impact** | Real-time fake probability risk scores with actionable alerts |
+| **Special** | Vector DB-backed fact verification from trusted knowledge sources |
+| **Stack** | `Python` `RAG` `LangChain` `Vector Databases` `LLM Reasoning` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-4ECDC4?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan/TruthShield_AI)
+
+</details>
+
+<details>
+<summary><b>💧 Smart Water Sentinel — Predictive Monitoring</b> 🟢 Active</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | AI-IoT pipeline monitoring system with LSTM time-series anomaly detection |
+| **Impact** | Pinpoints leak locations on a Web-GIS dashboard for proactive maintenance |
+| **Special** | Real-time sensor data ingestion + infrastructure health mapping |
+| **Stack** | `Python` `LSTM` `IoT Sensors` `GIS Dashboard` `Flask` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan/Smart_Water_Sentinel)
+
+</details>
+
+<details>
+<summary><b>📄 DocuSense AI — Document Intelligence</b> ✅ Complete</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | RAG-based document assistant for querying large unstructured repositories |
+| **Impact** | Significantly reduced manual document audit times |
+| **Special** | Source-grounded answers with precise citation tracking |
+| **Stack** | `Python` `RAG` `LLM Reasoning` `Pinecone` `NLP` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-4ECDC4?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan)
+
+</details>
+
+<details>
+<summary><b>🌾 Smart Farm BioLoop — AI Precision Agriculture</b> ✅ Complete</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | AI-IoT precision farming using soil & climate sensors |
+| **Impact** | Increased crop yield while reducing chemical fertilizer usage |
+| **Special** | Self-regulating automated greenhouse prototype |
+| **Stack** | `Python` `Random Forest` `IoT Sensors` `Microcontrollers` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan)
+
+</details>
+
+<details>
+<summary><b>🚀 Vetha Insights — Personal Blog & Portfolio</b> 🟢 Live</summary>
+<br/>
+
+| | |
+|---|---|
+| **What** | Full-stack portfolio with AI chatbot, admin dashboard, and technical blog |
+| **Impact** | SEO-optimized, dark-themed professional web presence |
+| **Special** | JWT auth, GitHub integration, Gemini-powered AI widget |
+| **Stack** | `React` `Vite` `Express.js` `MongoDB` `TailwindCSS` |
+
+[![View Code](https://img.shields.io/badge/→_View_Repository-4ECDC4?style=flat-square&logo=github&logoColor=white)](https://github.com/GVethaNarayanan/Personal-Blog)
+
+</details>
+
+---
+
+### 📦 Other Repos
+
+| | Repository | What It Does |
+|:---:|:---|:---|
+| 🔍 | [Sentiment_Analysis](https://github.com/GVethaNarayanan/Sentiment_Analysis) | NLP-based sentiment analysis tool |
+| 📝 | [Resume-Analyzer](https://github.com/GVethaNarayanan/Resume-Analyzer) | AI-powered resume scoring & analysis |
+| 💬 | [RealTimeChat](https://github.com/GVethaNarayanan/RealTimeChat) | WebSocket-powered real-time chat app |
+| 🎣 | [Phishing-Detection-Sys](https://github.com/GVethaNarayanan/Phishing-Detection-Sys) | ML-based phishing URL detection |
+| 📈 | [opportunity-radar-final](https://github.com/GVethaNarayanan/opportunity-radar-final) | Multi-agent financial opportunity detector |
+| 📊 | [MIC-](https://github.com/GVethaNarayanan/MIC-) | MIC Dashboard application |
+| ⚽ | [World_Cup](https://github.com/GVethaNarayanan/World_Cup) | World Cup data visualization |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/GVethaNarayanan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GVethaNarayanan&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVethaNarayanan&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&border_color=30363D&hide_border=false"/>
 </a>
 
 <br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/vetha-narayanan-782724309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vethanarayanang007@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/VethaNarayananG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/GVethaNarayanan"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_vetha_.07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=GVethaNarayanan&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/GVethaNarayanan?label=Followers&style=flat-square&color=06B6D4"/>
-  <img src="https://img.shields.io/github/stars/GVethaNarayanan?affiliations=OWNER&style=flat-square&color=8B5CF6&label=Stars"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Projects-06B6D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CGPA-7.96-8B5CF6?style=flat-square"/>
-</p>
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GVethaNarayanan&theme=radical&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4&border=30363D" width="70%"/>
 
 <br/>
 
-## 🧠 About Me
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name          = "Vetha Narayanan G"
-        self.role          = "Software Engineer | AI/ML Developer | Full-Stack Builder"
-        self.education     = "B.Tech IT @ Chennai Institute of Technology (2024-2028)"
-        self.focus         = ["Deep Learning", "Generative AI (RAG/LLM)", "AI-IoT Systems", "Full-Stack Web Dev"]
-        self.mission       = "Build intelligent systems that bridge AI research and real-world impact"
-        self.current_work  = ["SepsiSense AI", "TruthShield AI", "Personal Blog & Portfolio"]
-        self.leetcode      = "500+ problems solved"
-        self.based_in      = "Chennai, Tamil Nadu, India 🇮🇳"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GVethaNarayanan&theme=radical" width="90%"/>
 
-    def say_hi(self):
-        print("Thanks for visiting — let's build something extraordinary together!")
+<br/>
 
-me = SoftwareEngineer()
-me.say_hi()
+<img src="https://github-profile-trophy.vercel.app/?username=GVethaNarayanan&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%"/>
+
+</div>
+
+---
+
+### 🏅 Certifications I've Earned
+
+<div align="center">
+
+| Certificate | Issuer |
+|:---|:---:|
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
+| 🌐 CCNA (Routing & Switching) | Cisco Systems |
+| 🍃 MongoDB Basics & Developer | MongoDB University |
+| 🧠 AI Fluency + Claude 101 + Claude Code | Anthropic |
+| 📡 IoT Fundamentals | NPTEL (IIT) |
+| 🤖 Gen AI Internship Course | LGTG Solutions |
+| 📊 Data Analytics Intern Certification | Skill Intern |
+| 🌩️ Forage AWS Simulation | Amazon Web Services |
+| 📈 Excel for Business | Coursera |
+
+</div>
+
+---
+
+### 🏆 Beyond Code
+
+- 📱 **Samsung Galaxy Workshop** — Organized a hands-on device workshop at CIT
+- ⚙️ **Bonfiglioli 48hr Hackathon** — Organized a college-wide 48-hour hackathon
+- 🎤 **PaperNZA'26** — Organized a paper presentation event for the department symposium
+
+---
+
+### 🗺️ What I'm Leveling Up
+
+```
+████████████████████░░   92%  Python
+██████████████████░░░░   88%  Deep Learning (Bi-LSTM, SHAP)
+█████████████████░░░░░   85%  Generative AI (RAG, LLMs)
+█████████████████░░░░░   85%  JavaScript / React
+████████████████░░░░░░   80%  Node.js / Express
+███████████████░░░░░░░   75%  Cloud (AWS)
+██████████████░░░░░░░░   70%  IoT Systems
+████████████░░░░░░░░░░   60%  System Design
 ```
 
-<br/>
+---
 
-## 📊 Developer Snapshot
 <div align="center">
 
-| 🚀 AI/ML Projects | 💼 Internships | 🧩 LeetCode | 🎓 CGPA |
-|:---:|:---:|:---:|:---:|
-| **5+** | **2** | **500+** | **7.96** |
+### 💭
 
-| 💻 Core Languages | 🧭 Domain Expertise |
-|:---:|:---:|
-| Python · Java · JavaScript · C · SQL | Deep Learning · GenAI · IoT · Full-Stack · Cloud |
+*"I don't just write code — I engineer solutions that bridge the gap between AI research and real-world impact."*
+
+<br/>
+
+📫 **Reach me at:** [vethanarayanang007@gmail.com](mailto:vethanarayanang007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vetha-narayanan-782724309/) · [Instagram](https://www.instagram.com/_vetha_.07/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer"/>
 
 </div>
-
-<br/>
-
-## 🎯 Current Focus
-<div align="center">
-
-<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/RAG%20Architectures-0D1117?style=for-the-badge&logo=langchain&logoColor=8B5CF6"/>
-<br/>
-<img src="https://img.shields.io/badge/AI--IoT%20Systems-0D1117?style=for-the-badge&logo=arduino&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Dev-0D1117?style=for-the-badge&logo=react&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge&logo=amazonaws&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Technical%20Blogging-0D1117?style=for-the-badge&logo=hashnode&logoColor=8B5CF6"/>
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark"/><img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=06B6D4"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-**AI / Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000"/>
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logo=plotly&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,linux,postman&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 💼 Professional Experience
-<div align="center">
-
-| 🏢 Company | 🎯 Role | 📅 Duration |
-|:---|:---|:---:|
-| **LGTG Solutions Pvt. Ltd.** | AI Intern (Audio Signal Processing) | May 2026 – Jun 2026 |
-| **Zizzle Technologies India Pvt Ltd** | Web Development Intern | May 2025 – Jun 2025 |
-
-</div>
-
-<br/>
-
-## 💡 Featured AI Projects
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 SepsiSense AI
-**Status:** 🟢 Active Development
-
-Early Sepsis Prediction System — Bi-LSTM deep learning model for ICU time-series vital data. Detects septic shock **6–12 hours** earlier.
-
-**Tech:** Python · Bi-LSTM · SHAP · TensorFlow · MIMIC
-
-**Highlights:**
-- SHAP explainability for clinical indicators
-- Time-series vital sign pattern recognition
-- Outperforms traditional SIRS/SOFA scoring
-
-[![Repo](https://img.shields.io/badge/View-Repository-8B5CF6?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan/SepsiSense_AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ TruthShield AI
-**Status:** 🟢 Active Development
-
-Misinformation & Scam Detection — GenAI multi-modal system with RAG-based fact verification from trusted knowledge sources.
-
-**Tech:** Python · RAG · LangChain · LLM · Vector DB
-
-**Highlights:**
-- Real-time fake probability risk scoring
-- Multi-modal scam & deepfake detection
-- Actionable alerts with source citations
-
-[![Repo](https://img.shields.io/badge/View-Repository-06B6D4?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan/TruthShield_AI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💧 Smart Water Sentinel
-**Status:** 🟢 Active Development
-
-Predictive Water Monitoring — AI-IoT pipeline system with LSTM anomaly detection and Web-GIS infrastructure dashboard.
-
-**Tech:** Python · LSTM · IoT Sensors · GIS · Flask
-
-**Highlights:**
-- Real-time sensor data ingestion
-- Leak pinpointing via GIS mapping
-- Proactive infrastructure maintenance
-
-[![Repo](https://img.shields.io/badge/View-Repository-8B5CF6?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan/Smart_Water_Sentinel)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 DocuSense AI
-**Status:** ✅ Completed
-
-GenAI Document Intelligence — RAG-based assistant for querying large document repositories with semantic search and LLM reasoning.
-
-**Tech:** Python · RAG · LLM · Pinecone · NLP
-
-**Highlights:**
-- Source-grounded answers with citations
-- Semantic search on unstructured data
-- Reduced manual audit times significantly
-
-[![Repo](https://img.shields.io/badge/View-Repository-06B6D4?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 Smart Farm BioLoop
-**Status:** ✅ Completed
-
-AI Precision Agriculture — IoT farming system using soil & climate sensors with Random Forest models for irrigation prediction.
-
-**Tech:** Python · Random Forest · IoT · Microcontrollers
-
-**Highlights:**
-- Self-regulating greenhouse prototype
-- Reduced chemical fertilizer usage
-- Dynamic nutrient delivery optimization
-
-[![Repo](https://img.shields.io/badge/View-Repository-8B5CF6?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Personal Blog & Portfolio
-**Status:** 🟢 Live
-
-Full-stack personal portfolio with AI-powered chatbot, admin dashboard, and technical blog — built with React, Express & MongoDB.
-
-**Tech:** React · Vite · Express.js · MongoDB · TailwindCSS
-
-**Highlights:**
-- AI chatbot widget (Gemini/Pollinations)
-- JWT auth admin panel for blog CRUD
-- GitHub project integration & SEO
-
-[![Repo](https://img.shields.io/badge/View-Repository-06B6D4?style=for-the-badge&logo=github)](https://github.com/GVethaNarayanan/Personal-Blog)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏗️ More Repositories
-<div align="center">
-
-| Repository | Description | Tech |
-|:-----------|:------------|:----:|
-| [Sentiment_Analysis](https://github.com/GVethaNarayanan/Sentiment_Analysis) | NLP-based sentiment analysis tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [Resume-Analyzer](https://github.com/GVethaNarayanan/Resume-Analyzer) | AI-powered resume analysis & scoring | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [RealTimeChat](https://github.com/GVethaNarayanan/RealTimeChat) | Real-time chat application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [Phishing-Detection-Sys](https://github.com/GVethaNarayanan/Phishing-Detection-Sys) | ML-based phishing URL detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [opportunity-radar-final](https://github.com/GVethaNarayanan/opportunity-radar-final) | AI multi-agent financial opportunity detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [MIC-](https://github.com/GVethaNarayanan/MIC-) | MIC Dashboard application | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [World_Cup](https://github.com/GVethaNarayanan/World_Cup) | World Cup data visualization | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
-</div>
-
-<br/>
-
-## 📈 GitHub Analytics
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GVethaNarayanan&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&border_color=8B5CF6&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVethaNarayanan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&hide_border=false" width="40%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GVethaNarayanan&theme=tokyonight&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&border=8B5CF6" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GVethaNarayanan&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=ffffff&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GVethaNarayanan&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📜 Certifications
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL_IoT-0056D2?style=for-the-badge&logo=swarm&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Anthropic_AI_Fluency-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_101_%26_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gen_AI_Internship-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Data_Analytics_Intern-8B5CF6?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Forage_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera_Excel-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 🏆 Achievements & Volunteering
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">🧩<br/><b>500+</b><br/>LeetCode Solved</td>
-<td align="center" width="20%">🎯<br/><b>160+</b><br/>SkillRack Solved</td>
-<td align="center" width="20%">💼<br/><b>2</b><br/>Internships</td>
-<td align="center" width="20%">🚀<br/><b>5+</b><br/>AI Projects</td>
-<td align="center" width="20%">🎓<br/><b>7.96</b><br/>CGPA</td>
-</tr>
-</table>
-
-- 📱 **Galaxy Device Workshop** — Organized a Samsung Galaxy workshop at CIT
-- 🏭 **Bonfiglioli Hackathon** — Organized a 48-hour hackathon at college
-- 📝 **PaperNZA'26** — Organized paper presentation event at department symposium
-
-</div>
-
-<br/>
-
-## 🗺️ Skill Journey
-```
-Python              ●━━━━━━━━━━●  Core strength
-Deep Learning        ●━━━━━━━━━●   Bi-LSTM, SHAP, TensorFlow
-Generative AI        ●━━━━━━━━●    RAG, LangChain, LLMs
-JavaScript           ●━━━━━━━━●    React, Node, Express
-Java                 ●━━━━━━━●     Solid foundation
-IoT Systems          ●━━━━━━━●     Sensors, LSTM anomaly
-Cloud (AWS)          ●━━━━━━●      Certified Practitioner
-Data Analytics       ●━━━━━━━●     Pandas, NumPy, Viz
-System Design        ●━━━━━●       Growing depth
-```
-
-<br/>
-
-## ✨ Philosophy
-<div align="center">
-
-> *"I don't just write code — I engineer intelligent solutions that bridge AI research with real-world impact."*
-
-</div>
-
-<br/>
-
-## 📬 Let's Connect
-<div align="center">
-
-<a href="https://github.com/GVethaNarayanan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vetha-narayanan-782724309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vethanarayanang007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/VethaNarayananG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.instagram.com/_vetha_.07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="tel:+916369436619"><img src="https://img.shields.io/badge/Call_Me-06B6D4?style=for-the-badge&logo=phone&logoColor=white"/></a>
-
-<br/><br/>
-
-⭐ *If you find my projects interesting, consider giving them a star!*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=18&animation=fadeIn"/>
