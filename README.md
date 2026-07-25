@@ -32,39 +32,39 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-name: Vetha Narayanan G
-location: Chennai, India 🇮🇳
-education: B.Tech IT @ CIT (2024-2028)
-cgpa: 7.96
-role: Software Engineer | AI/ML Developer
+<pre>
+<b>name:</b> Vetha Narayanan G
+<b>location:</b> Chennai, India 🇮🇳
+<b>education:</b> B.Tech IT @ CIT (2024-2028)
+<b>cgpa:</b> 7.96
+<b>role:</b> Software Engineer | AI/ML Developer
 
-currently_building:
-  - SepsiSense AI (Sepsis Prediction)
-  - Personal Blog & Portfolio
+<b>currently_building:</b>
+  • SepsiSense AI (Sepsis Prediction)
+  • Personal Blog & Portfolio
 
-experience:
-  - AI Intern @ LGTG Solutions (2026)
-  - Web Dev Intern @ Zizzle Technologies (2025)
+<b>experience:</b>
+  • AI Intern @ LGTG Solutions (2026)
+  • Web Dev Intern @ Zizzle Technologies (2025)
 
-achievements:
-  leetcode: 500+ problems solved
-  skillrack: 160+ problems solved
-  ai_projects: 5+ deployed
+<b>achievements:</b>
+  • LeetCode: 500+ problems solved
+  • SkillRack: 160+ problems solved
+  • AI Projects: 5+ deployed
 
-open_to:
-  - Internships
-  - AI Research
-  - Collaborations
-```
+<b>open_to:</b>
+  • Internships
+  • AI Research
+  • Collaborations
+</pre>
 
 </td>
 
-<td width="45%" align="center" valign="top">
+<td width="42%" align="center" valign="top">
 
-<img src="./profile.png" width="100%" alt="Profile"/>
+<img src="./profile.png" width="340" alt="Profile"/>
 
 </td>
 
@@ -72,7 +72,6 @@ open_to:
 </table>
 
 ---
-
 
 <!-- 3D TECH STACK ICONS -->
 ## 🧊 Tech Universe
