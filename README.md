@@ -222,9 +222,9 @@
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GVethaNarayanan&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%" alt="Trophies"/>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GVethaNarayanan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ---
 
