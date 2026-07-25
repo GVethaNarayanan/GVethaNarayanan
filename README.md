@@ -188,13 +188,7 @@ open_to: Internships | AI Research | Collaborations
 
 ---
 
-## ⚡ GitHub Jet Heatmap
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GVethaNarayanan/GVethaNarayanan/main/github-jet.svg" width="100%" alt="GitHub Jet Heatmap"/>
-</div>
-
-<br/>
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 ## 🌌 3D Contribution Map
