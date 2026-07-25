@@ -26,9 +26,13 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<img align="right" width="280" src="./profile.png"/>
 
 ## ⚡ Quick Overview
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 ```yaml
 name: Vetha Narayanan G
@@ -49,13 +53,26 @@ achievements:
   leetcode: 500+ problems solved
   skillrack: 160+ problems solved
   ai_projects: 5+ deployed
-  
-open_to: Internships | AI Research | Collaborations
+
+open_to:
+  - Internships
+  - AI Research
+  - Collaborations
 ```
 
-<br clear="both"/>
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<img src="./profile.png" width="100%" alt="Profile"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
 
 <!-- 3D TECH STACK ICONS -->
 ## 🧊 Tech Universe
