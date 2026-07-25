@@ -26,7 +26,7 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<img align="right" width="380" src="./profile.png" alt="AI Developer"/>
+<img align="right" width="380" src="./profile.png" alt="AI Developer" style="margin-top:40px;"/>
 
 ## ⚡ Quick Overview
 
