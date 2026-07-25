@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,12,19,24,30&text=VETHA%20NARAYANAN%20G&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=65&stroke=00000070&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:161B22&text=VETHA%20NARAYANAN%20G&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20AI/ML%20Developer%20|%20Full-Stack%20Builder&descSize=18&descAlignY=60"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/GVethaNarayanan">
