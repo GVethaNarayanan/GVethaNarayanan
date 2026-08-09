@@ -39,7 +39,7 @@
 <b>location:</b> Chennai, India 🇮🇳
 <b>education:</b> B.Tech IT @ CIT (2024-2028)
 <b>cgpa:</b> 7.96
-<b>role:</b> Software Engineer | AI/ML Developer
+<b>role:</b> Software Engineer | Data Scientist
 
 <b>currently_building:</b>
   • SepsiSense AI (Sepsis Prediction)
